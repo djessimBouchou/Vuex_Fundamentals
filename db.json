@@ -29,6 +29,16 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": "c2042b66-0443-4087-a481-601509b77f6a",
+      "category": "food",
+      "title": "Burger free",
+      "description": "Great event",
+      "location": "New-York",
+      "date": "10 January 2022",
+      "time": "12AM",
+      "organizer": "Adam Jahr"
     }
   ]
 }
