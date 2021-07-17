@@ -29,6 +29,16 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": "829cf63d-29d9-41df-8471-1ac625255e0f",
+      "category": "nature",
+      "title": "Nature horse",
+      "description": "A great event",
+      "location": "N-Y",
+      "date": "10/01/2020",
+      "time": "10AM",
+      "organizer": "Adam Jahr"
     }
   ]
 }
